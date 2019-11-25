@@ -1,0 +1,21 @@
+孙正祥-Android实习学习周报(11.18-11.22)
+
+1.Android事件机制的demo完成；
+     (1).demo1->控制飞机；
+     (2).demo2->自动计算输入值中的所有质数，并输出；
+     (3).利用AsyncTask完成点击下载进度条显示;
+2.Android动画完成；
+    (1).了解了BitmapFactory和ImageDecoder的使用；
+    (2).完成了逐帧动画、补间动画、属性动画的知识梳理，并且做成小demo（见附图）；
+3.Android应用资源结束；
+    (1).了解了各种资源文件的使用，如：LayerDrawble、ShapeDrawable等等资源文件； 
+    (2).各种资源文件的使用都做成相应demo（见附图）；
+
+
+
+
+下周任务：
+	1.Android网络编程完成；
+	2.开始做一些Android的综合小练习；
+
+
