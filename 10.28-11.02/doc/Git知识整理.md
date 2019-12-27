@@ -295,8 +295,11 @@ git rm --cached是删除暂存区或分支上的文件,但本地还保留这个�
 ### git查看本机秘钥
 输入命令`$ ssh-keygen -t rsa -C "1024809664@qq.com"`
 
+![image-20191206091955789](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20191206091955789.png)
+
 ### git 查看配置信息
 `git config --list`
+
 ### git 配置全局用户名
 `git config --global user.name "sunzhengxiang"`
 ### 配置全局邮箱
