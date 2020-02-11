@@ -1,0 +1,18 @@
+孙正祥-Android实习学习周报(01.06-01.10)
+
+1. 熟悉鲤刷刷项目；
+	(1). 熟悉鲤刷刷中的Retrofit+Rxjava；
+	(2).私有协议跳转，再次回顾Android的四种启动模式；
+2.了解Room框架，并将音乐播放器中的数据库换成Room；
+3.gradle语言熟悉，并且理清鲤刷刷项目中gradle的配置；
+4.在导师的指导下参与鲤刷刷项目；
+	(1). 利用Android profiler和Leakcanary进行性能分析，修复了WebActivity和MainActivity中内存泄漏问题；
+	(2). 完成视频分享弹窗；
+
+下周计划：
+	1、继续熟悉鲤刷刷项目；
+	
+	
+
+
+

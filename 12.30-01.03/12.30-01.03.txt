@@ -1,0 +1,22 @@
+孙正祥-Android实习学习周报(12.30-01.03)
+
+1. 音乐播放器结项，并放置github上，ReadMe中有相关简介；（git下载地址：https://github.com/Grekit-Sun-Coder/MediaPlayer_YiFan.git）
+	（1）. 项目中的异步处理都换成了Rxjava；
+	（2）. 项目中的引入ButterKnife；
+	（3）. 项目中引入Leakcanary；
+
+2. 结合app开始熟悉鲤刷刷业务以及代码；
+	  (1). 鲤刷刷的框架MVP;
+	  (2). 学习了个推的使用；
+	  (3). 熟悉了鲤刷刷的网络框架Retrofit+Rxjava；
+	  (4). 友盟埋点技术；
+	  (5). 埋点了解；
+	  (6). 腾讯x5内核了解；
+	  (7). intentService了解;
+ 
+下周计划：
+	1、继续熟悉鲤刷刷项目；
+	
+
+
+
